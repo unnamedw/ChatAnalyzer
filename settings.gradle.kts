@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ChatAnalyzer"
 include(":app")
- 
+include(":chat")
